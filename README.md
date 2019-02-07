@@ -1,6 +1,6 @@
 # Solarized Dark color scheme for Oracle SQL Developer #
 
-This is an implementation of the [Solarized Dark] (http://ethanschoonover.com/solarized) color scheme for Oracle SQL Developer.  It borrows from ozmoroz's spinoff of the Obsidian colour scheme for Oracle SQL Developer. It is based on [Obsidian Eclipse colour scheme by Morinar] (http://eclipsecolorthemes.org/?view=theme&id=21).
+This is an implementation of the [Solarized Dark](http://ethanschoonover.com/solarized) color scheme for Oracle SQL Developer.  It borrows from ozmoroz's spinoff of the Obsidian colour scheme for Oracle SQL Developer. It is based on [Obsidian Eclipse colour scheme by Morinar](http://eclipsecolorthemes.org/?view=theme&id=21).
 
 ![](screenshots/solarized-dark-sqldev_1.png)
 
@@ -17,6 +17,13 @@ Unfortunately Oracle doesn't make it easy to import a new colour scheme into SQL
 - Select "Solarized Dark" in the "Scheme" drop down list on the top.
 
 ![](screenshots/solarized-dark-sqldev_2.png)
+
+## Light theme
+
+Thanks to [smiller6](https://github.com/smiller6) for contributing a light theme.  Follow the same instructions above, but use the file `solarized-light-scheme.xml` instead.
+
+![](screenshots/solarized-light.png)
+
 
 ## Tweaks ##
 
